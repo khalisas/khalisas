@@ -13,8 +13,8 @@ Hi I'm `Khalisa Shiva `,I’m `19 years old` a Fresh graduate at Telkom Vocation
     - 😄 Pronouns: She/Her </br>
 </details>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=safirasal&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safirasal&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=khalisas&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalisas&layout=compact" height=180 />
 </p>
 
 ### Connect with me:
@@ -37,7 +37,7 @@ Hi I'm `Khalisa Shiva `,I’m `19 years old` a Fresh graduate at Telkom Vocation
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-</a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="26px" height="26px"/> </a>
+
 <br />
 <br />
 
