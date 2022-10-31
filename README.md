@@ -21,11 +21,11 @@ Hi I'm `Khalisa Shiva `,I’m `19 years old` a Fresh graduate at Telkom Vocation
 
 
 [<img align="left" alt="https://github.com/khalisas" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="khalisashiva | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="https://www.linkedin.com/in/khalisa-shiva | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="https://www.instagram.com/khalisashivaa/| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="https://www.linkedin.com/in/khalisa-shiva-68484b196/ | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
 [instagram]: https://www.instagram.com/khalisashiva/
 [website]: https://github.com/khalisas
-[linkedin]: https://www.linkedin.com/in/khalisa-shiva
+[linkedin]: https://www.linkedin.com/in/khalisa-shiva-68484b196
